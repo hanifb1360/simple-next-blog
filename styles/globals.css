@@ -16,11 +16,9 @@ a {
 }
 
 @media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+  
   body {
-    color: white;
-    background: black;
+    color: rgb(55, 55, 55);
+    background: rgb(211, 211, 211);
   }
 }

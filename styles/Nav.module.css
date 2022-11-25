@@ -1,0 +1,21 @@
+.nav {
+  height: 58px;
+  padding: 10px;
+  background-color: rgb(29, 29, 29);
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  
+}
+
+.nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.nav ul li a {
+  margin: 5px 15px;
+}
